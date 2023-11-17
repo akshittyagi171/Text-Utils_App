@@ -1,6 +1,12 @@
 import React from 'react'
 import { useState } from 'react'
 
+/* 
+===================
+@Author Akshit Tyagi
+====================
+*/
+
 export default function About() {
     const [myStyle,setMyStyle] = useState({
         color : 'black',

@@ -1,5 +1,10 @@
 import React from 'react'
-// import PropTypes from 'prop-types'
+
+/* 
+===================
+@Author Akshit Tyagi
+====================
+*/
 
 export default function Navbar(props) {
     return (

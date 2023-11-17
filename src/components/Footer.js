@@ -1,5 +1,11 @@
 import React from 'react'
 
+/* 
+===================
+@Author Akshit Tyagi
+====================
+*/
+
 export default function Footer(props) {
     return (
         <div>
