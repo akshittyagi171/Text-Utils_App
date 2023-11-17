@@ -1,4 +1,4 @@
-# TextForm React Component
+# Text-Utils-App
 
 ## Overview
 The `TextForm` React component is a versatile tool for manipulating and analyzing text. It offers a range of features to modify text cases, copy to the clipboard, speak the text, download as a .txt file, and more.
